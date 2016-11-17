@@ -43,7 +43,6 @@ public abstract class BaseActivity extends MvpAppCompatActivity {
     }
 
     protected void removeFragment(BaseFragment fragment) {
-
         if (mFragmentManager == null) {
             return;
         }
@@ -52,7 +51,6 @@ public abstract class BaseActivity extends MvpAppCompatActivity {
         transaction.remove(fragment);
         transaction.commit();
     }
-
 
     public void showMessage(String message) {
         Toast.makeText(this, message, Toast.LENGTH_SHORT).show();
