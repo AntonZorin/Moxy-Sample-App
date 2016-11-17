@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\zorin.a\AndroidStudioProjects\MoxySample\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\zorin.a\AndroidStudioProjects\MoxySample\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_58983135b25a043144c4b560c5afe5060ce53ea5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zorin.a\.gradle\caches\modules-2\files-2.1\com.arello-mobile\moxy\1.2.1\f818be534a80fb51acc4d7a751d4536671cd2a4f\moxy-1.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f818be534a80fb51acc4d7a751d4536671cd2a4f">
+        <dex dex="C:\Users\zorin.a\AndroidStudioProjects\MoxySample\app\build\intermediates\pre-dexed\debug\moxy-1.2.1_036c054ec5541b7f9e2e81db9e47069901b39c42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zorin.a\AndroidStudioProjects\MoxySample\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\zorin.a\AndroidStudioProjects\MoxySample\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_5d5d52cafdb2e146d0131a79e0af024b84c34bd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zorin.a\AndroidStudioProjects\MoxySample\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="C:\Users\zorin.a\AndroidStudioProjects\MoxySample\app\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.1.0_dc6a987b1d9b52cc5e6adedb303107d152b13d01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zorin.a\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.0\748f0546d5c3c27f1aef07270ffea0c45f0c42a4\rxjava-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="748f0546d5c3c27f1aef07270ffea0c45f0c42a4">
+        <dex dex="C:\Users\zorin.a\AndroidStudioProjects\MoxySample\app\build\intermediates\pre-dexed\debug\rxjava-1.1.0_991bb6ad675548019206609c9fee18ccf7a03b4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zorin.a\.gradle\caches\modules-2\files-2.1\com.arello-mobile\moxy-app-compat\1.2.1\3a0f3cf100b8cc6900670b23f33fc57f3858e333\moxy-app-compat-1.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3a0f3cf100b8cc6900670b23f33fc57f3858e333">
+        <dex dex="C:\Users\zorin.a\AndroidStudioProjects\MoxySample\app\build\intermediates\pre-dexed\debug\moxy-app-compat-1.2.1_8b73ecc6dddc242da02c92cf7b6f49d57daa64ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zorin.a\AndroidStudioProjects\MoxySample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\zorin.a\AndroidStudioProjects\MoxySample\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_c357c9c6fd87c6e927a4be838a648ad0620db492.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\INSTALL\_dev\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.0\support-annotations-24.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="C:\Users\zorin.a\AndroidStudioProjects\MoxySample\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.0_6cfebb82d930270a1a017d0f13405e7e6c5cd723.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zorin.a\AndroidStudioProjects\MoxySample\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\zorin.a\AndroidStudioProjects\MoxySample\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_b38d314c0cbbcc7d7c25975ad97750bd9f38efa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zorin.a\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\zorin.a\AndroidStudioProjects\MoxySample\app\build\intermediates\pre-dexed\debug\javax.inject-1_041aa7f51505d58d58ee505e2c1b9bcfa2053b43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zorin.a\AndroidStudioProjects\MoxySample\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="C:\Users\zorin.a\AndroidStudioProjects\MoxySample\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.4.0_de968253fa04a83dabb59009f8f796e6693ff165.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zorin.a\AndroidStudioProjects\MoxySample\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\zorin.a\AndroidStudioProjects\MoxySample\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_fbbf7aa9d2814419c4d5f4f21919fc41a9274f68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zorin.a\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="C:\Users\zorin.a\AndroidStudioProjects\MoxySample\app\build\intermediates\pre-dexed\debug\eventbus-3.0.0_0711f5a20f22534c1f91a51efd97024535f4377d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zorin.a\AndroidStudioProjects\MoxySample\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\zorin.a\AndroidStudioProjects\MoxySample\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_c05ac06885cfbb2aa459a531224cbf7a3c2371c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zorin.a\AndroidStudioProjects\MoxySample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="34801aa43aa64177e7af627df02fbd57b5b5da6f">
+        <dex dex="C:\Users\zorin.a\AndroidStudioProjects\MoxySample\app\build\intermediates\pre-dexed\debug\instant-run_02f7c17eb6c0adde78fe92dd610e00b41ccd4549.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zorin.a\AndroidStudioProjects\MoxySample\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\zorin.a\AndroidStudioProjects\MoxySample\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_b4eeb98b51156a59e6a27da38bf8c3415c960272.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zorin.a\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.7\f60e4926b5f05a62ff73e73b6eb3a856cdc74ddb\dagger-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f60e4926b5f05a62ff73e73b6eb3a856cdc74ddb">
+        <dex dex="C:\Users\zorin.a\AndroidStudioProjects\MoxySample\app\build\intermediates\pre-dexed\debug\dagger-2.7_4f4c1ca732cdeecf6408c6b8368b181b00c1288d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zorin.a\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="C:\Users\zorin.a\AndroidStudioProjects\MoxySample\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.4.0_18fbd1367ced9ac9c878d6ed179f20fbfca914ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zorin.a\AndroidStudioProjects\MoxySample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="25bd86a25ba495c6262428898e6c07a9a21f1b54">
+        <dex dex="C:\Users\zorin.a\AndroidStudioProjects\MoxySample\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_ff255148ed75b3e46098a882ebc995152f82bcdf.jar" />
+    </item>
+
+</items>
